@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "nodemon": "^2.0.22"
+  },
+  "name": "api-practice",
+  "version": "1.0.0",
+  "description": "This is some node.js practice",
+  "main": "app.js",
+  "scripts": {
+    "develop": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
